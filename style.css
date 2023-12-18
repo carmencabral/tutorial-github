@@ -3,9 +3,9 @@ body{
     margin: 0;
 }
 
-/* div{
-    border-style: solid;
-} */
+body{
+    background-color: darkcyan;
+}
 
 #begin{
     height: 70px;
